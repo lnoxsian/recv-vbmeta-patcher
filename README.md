@@ -1,4 +1,4 @@
-## Patch your Samsung Recovery and VBMeta images
+## Patch your Samsung Recovery and VBMeta images (SM-A315F/DS)
 This is a combo version of patching Samsung recovery image with fastbootd (https://github.com/Johx22/Patch-Recovery) and patching vbmeta (https://github.com/cd-Crypton/vbmeta-action-patcher) utilizing GitHub Workflows infra. All binaries are coming from those repos.
 
 ## Guide
